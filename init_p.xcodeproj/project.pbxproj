@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		881CCE432CB859A500DD0D13 /* SF-Compact-Display-Ultralight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 881CCE3A2CB859A300DD0D13 /* SF-Compact-Display-Ultralight.otf */; };
+		881CCE442CB859A500DD0D13 /* SF-Compact-Display-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 881CCE3B2CB859A300DD0D13 /* SF-Compact-Display-Light.otf */; };
+		881CCE452CB859A500DD0D13 /* SF-Compact-Display-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 881CCE3C2CB859A400DD0D13 /* SF-Compact-Display-Bold.otf */; };
+		881CCE462CB859A500DD0D13 /* SF-Compact-Display-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 881CCE3D2CB859A400DD0D13 /* SF-Compact-Display-Black.otf */; };
+		881CCE472CB859A500DD0D13 /* SF-Compact-Display-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 881CCE3E2CB859A400DD0D13 /* SF-Compact-Display-Regular.otf */; };
+		881CCE482CB859A500DD0D13 /* SF-Compact-Display-Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = 881CCE3F2CB859A400DD0D13 /* SF-Compact-Display-Heavy.otf */; };
+		881CCE492CB859A500DD0D13 /* SF-Compact-Display-Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 881CCE402CB859A500DD0D13 /* SF-Compact-Display-Semibold.otf */; };
+		881CCE4A2CB859A500DD0D13 /* SF-Compact-Display-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 881CCE412CB859A500DD0D13 /* SF-Compact-Display-Medium.otf */; };
+		881CCE4B2CB859A500DD0D13 /* SF-Compact-Display-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 881CCE422CB859A500DD0D13 /* SF-Compact-Display-Thin.otf */; };
 		8849EEB22CB83EB300929526 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8849EEB12CB83EB300929526 /* AppDelegate.swift */; };
 		8849EEB42CB83EB300929526 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8849EEB32CB83EB300929526 /* SceneDelegate.swift */; };
 		8849EEB62CB83EB300929526 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8849EEB52CB83EB300929526 /* ViewController.swift */; };
@@ -16,6 +25,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		881CCE3A2CB859A300DD0D13 /* SF-Compact-Display-Ultralight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-Compact-Display-Ultralight.otf"; sourceTree = "<group>"; };
+		881CCE3B2CB859A300DD0D13 /* SF-Compact-Display-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-Compact-Display-Light.otf"; sourceTree = "<group>"; };
+		881CCE3C2CB859A400DD0D13 /* SF-Compact-Display-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-Compact-Display-Bold.otf"; sourceTree = "<group>"; };
+		881CCE3D2CB859A400DD0D13 /* SF-Compact-Display-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-Compact-Display-Black.otf"; sourceTree = "<group>"; };
+		881CCE3E2CB859A400DD0D13 /* SF-Compact-Display-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-Compact-Display-Regular.otf"; sourceTree = "<group>"; };
+		881CCE3F2CB859A400DD0D13 /* SF-Compact-Display-Heavy.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-Compact-Display-Heavy.otf"; sourceTree = "<group>"; };
+		881CCE402CB859A500DD0D13 /* SF-Compact-Display-Semibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-Compact-Display-Semibold.otf"; sourceTree = "<group>"; };
+		881CCE412CB859A500DD0D13 /* SF-Compact-Display-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-Compact-Display-Medium.otf"; sourceTree = "<group>"; };
+		881CCE422CB859A500DD0D13 /* SF-Compact-Display-Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-Compact-Display-Thin.otf"; sourceTree = "<group>"; };
 		8849EEAE2CB83EB300929526 /* init_p.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = init_p.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8849EEB12CB83EB300929526 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8849EEB32CB83EB300929526 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -37,6 +55,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		881CCE392CB8592A00DD0D13 /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				881CCE3D2CB859A400DD0D13 /* SF-Compact-Display-Black.otf */,
+				881CCE3C2CB859A400DD0D13 /* SF-Compact-Display-Bold.otf */,
+				881CCE3F2CB859A400DD0D13 /* SF-Compact-Display-Heavy.otf */,
+				881CCE3B2CB859A300DD0D13 /* SF-Compact-Display-Light.otf */,
+				881CCE412CB859A500DD0D13 /* SF-Compact-Display-Medium.otf */,
+				881CCE3E2CB859A400DD0D13 /* SF-Compact-Display-Regular.otf */,
+				881CCE402CB859A500DD0D13 /* SF-Compact-Display-Semibold.otf */,
+				881CCE422CB859A500DD0D13 /* SF-Compact-Display-Thin.otf */,
+				881CCE3A2CB859A300DD0D13 /* SF-Compact-Display-Ultralight.otf */,
+			);
+			path = fonts;
+			sourceTree = "<group>";
+		};
 		8849EEA52CB83EB300929526 = {
 			isa = PBXGroup;
 			children = (
@@ -56,6 +90,7 @@
 		8849EEB02CB83EB300929526 /* init_p */ = {
 			isa = PBXGroup;
 			children = (
+				881CCE392CB8592A00DD0D13 /* fonts */,
 				8849EEB12CB83EB300929526 /* AppDelegate.swift */,
 				8849EEB32CB83EB300929526 /* SceneDelegate.swift */,
 				8849EEB52CB83EB300929526 /* ViewController.swift */,
@@ -125,9 +160,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				881CCE452CB859A500DD0D13 /* SF-Compact-Display-Bold.otf in Resources */,
 				8849EEBE2CB83EB400929526 /* LaunchScreen.storyboard in Resources */,
+				881CCE4B2CB859A500DD0D13 /* SF-Compact-Display-Thin.otf in Resources */,
 				8849EEBB2CB83EB400929526 /* Assets.xcassets in Resources */,
+				881CCE442CB859A500DD0D13 /* SF-Compact-Display-Light.otf in Resources */,
+				881CCE4A2CB859A500DD0D13 /* SF-Compact-Display-Medium.otf in Resources */,
+				881CCE492CB859A500DD0D13 /* SF-Compact-Display-Semibold.otf in Resources */,
+				881CCE482CB859A500DD0D13 /* SF-Compact-Display-Heavy.otf in Resources */,
+				881CCE472CB859A500DD0D13 /* SF-Compact-Display-Regular.otf in Resources */,
 				8849EEB92CB83EB300929526 /* Main.storyboard in Resources */,
+				881CCE432CB859A500DD0D13 /* SF-Compact-Display-Ultralight.otf in Resources */,
+				881CCE462CB859A500DD0D13 /* SF-Compact-Display-Black.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
